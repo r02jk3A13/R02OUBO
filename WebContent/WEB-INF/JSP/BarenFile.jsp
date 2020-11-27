@@ -17,7 +17,11 @@
 <br >
 <br >
 <br >
-<h1 style =" text-align:center">仙台駅前第一デパート　セール抽選会　受付会場</h1>
+<h1 style =" text-align:center">
+<font size="6">
+仙台駅前第一デパート　セール抽選会　受付会場
+</font>
+</h1>
 
 
 <form method="post" action="./page2">
