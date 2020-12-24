@@ -10,4 +10,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Kadai12Servlet</display-name>
+    <servlet-name>Kadai12Servlet</servlet-name>
+    <servlet-class>IndexServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Kadai12Servlet</servlet-name>
+    <url-pattern>/Kadai12Servlet</url-pattern>
+  </servlet-mapping>
 </web-app>
